@@ -16,3 +16,11 @@ Each node includes four links left, right, top and bottom.
 <br>• After copy string, user will give the initial x and y position and then paste the copied string at that position. If text already exists at the position where user want to paste the copied text, then display a message “Text already found” with a confirmation message that “Do you still want to paste the text”. If yes, then paste the text from that particular position.
 <br>• Find a word and replace it
 <br>• Input a word. If word is found, then replace it. Choice will be given for first word replacement or replace the word on whole file.
+
+<h2>OUTPUT</h2>
+
+![images](https://github.com/qadsa123/Data-Structures/assets/93070187/465bd0ad-a49e-4c1d-a16f-57fb35a06f63)
+
+
+
+![image2](https://github.com/qadsa123/Data-Structures/assets/93070187/15f6ef05-5d5f-4b61-ba38-97c29368fc31)
