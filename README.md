@@ -22,4 +22,5 @@ Each node includes four links left, right, top and bottom.
 ![images](https://github.com/qadsa123/Data-Structures/assets/93070187/465bd0ad-a49e-4c1d-a16f-57fb35a06f63)
 
 
+![image3](https://github.com/qadsa123/Data-Structures/assets/93070187/04baa55b-3200-4ae8-bb2a-84ec3903c50c)
 
